@@ -2,7 +2,7 @@
 
 Welcome to `Bootstrap ML`, a two hour introductory session to help you take your first steps in Machine Learning (ML), one of the most popular fields of our time. Your daily life is filled with applications and use cases which can be leveraged with ML and in this session we'll learn how to identify them and map them to the ML domain.
 
-The first (and only) public session of this workshop will be hosted at [Jornadas da Matemática 2018](http://nmath.tecnico.ulisboa.pt/home-page/eventos/jornadas-de-matematica/) and it will take place on the **22nd March 2018** at **9:30 am**, at [**Instituto Superior Técnico**](https://www.google.de/maps/place/Instituto+Superior+Técnico/) in Lisbon, room [**P13**](https://fenix.tecnico.ulisboa.pt/spaces-view/view/2448131363500).
+The first (and only) public session of this workshop will be hosted at [Jornadas da Matemática 2018](http://nmath.tecnico.ulisboa.pt/jmatematica18/) and it will take place on the **22nd March 2018** at **9:30 am**, at [**Instituto Superior Técnico**](https://tecnico.ulisboa.pt/en/) in Lisbon, room [**P13**](https://fenix.tecnico.ulisboa.pt/spaces-view/view/2448131363500).
 
 The session will be two-fold: the first part will provide you with a broad introduction to the field, a breakdown of the ML lingo, cover the most popular families of algorithms and typical scenarios in which they shine; during the second part we'll hack through some of the problems which today can be solved very quickly with publicly available open source tools.
 
