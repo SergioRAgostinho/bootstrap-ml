@@ -1,0 +1,4 @@
+[submodule "reveal.js"]
+	path = slides
+	url = git@github.com:SergioRAgostinho/reveal.js.git
+	branch = bootstrap-ml
