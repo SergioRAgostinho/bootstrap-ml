@@ -1,5 +1,7 @@
 *Registrations are now open! Sign up for the workshop [here](https://docs.google.com/forms/d/e/1FAIpQLScrPVefh149qN2JXY1cGvSNBNaVMaa-T6xyPDD8vgLJubw-9Q/viewform)*.
 
+*Setup instructions are now published [here](https://github.com/SergioRAgostinho/bootstrap-ml/blob/master/setup.ipynb).*
+
 ## Hello
 
 Welcome to `Bootstrap ML`, a two hour introductory session to help you take your first steps in Machine Learning (ML), one of the most popular fields of our time. Your daily life is filled with applications and use cases which can be leveraged with ML and in this session we'll learn how to identify them and map them to the ML domain.
@@ -18,7 +20,7 @@ I've created a GitHub [repository](https://github.com/SergioRAgostinho/bootstrap
 
 ## Preparation
 
-As stated in the introduction, the second part of the session is of practical nature. It will involve a live walk-through on how to address and solve some interesting toy problems. I'm currently preparing a small tutorial on how to set up the dependencies we will be using, which **I will publish and link here the moment it is ready**. We will be using Python 3 and a small group of open source packages. In order to actively engage in this second part, I encourage everyone to complete the tutorial and test your development environment in advance so that you don't risk getting blocked during the session.
+As stated in the introduction, the second part of the session is of practical nature. It will involve a live walk-through on how to address and solve some interesting toy problems. We will be using Python 3 and a small group of open source packages. To setup your environment for the practical session please check the instruction published [here](https://github.com/SergioRAgostinho/bootstrap-ml/blob/master/setup.ipynb). In order to actively engage in this second part, I encourage everyone to complete the tutorial and test your development environment in advance so that you don't risk getting blocked during the session.
 
 Even thought the session has a practical component, **you're not required to actively take part in it**. It is totally optional and it is perfectly OK to simply follow the session passively. All material will be publicly available after and I encourage you to try some of the problems yourself in your preferred work environment.
 
